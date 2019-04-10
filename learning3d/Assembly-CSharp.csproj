@@ -61,8 +61,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\movcube.cs" />
-    <Compile Include="Assets\script.cs" />
+    <Compile Include="Assets\movCube.cs" />
+    <Compile Include="Assets\moveAirplane.cs" />
+    <Compile Include="Assets\moveBall.cs" />
+    <Compile Include="Assets\moveCube.cs" />
+    <Compile Include="Assets\MovimentacaoCamera.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Aluno/Documents/compgraf/learning3d/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
