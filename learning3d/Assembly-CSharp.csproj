@@ -61,22 +61,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\movCube.cs" />
+    <Compile Include="Assets\movcube.cs" />
     <Compile Include="Assets\moveAirplane.cs" />
     <Compile Include="Assets\moveBall.cs" />
     <Compile Include="Assets\moveCube.cs" />
     <Compile Include="Assets\MovimentacaoCamera.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Aluno/Documents/compgraf/learning3d/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Aluno/unity/compgraf/learning3d/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Aluno/Documents/compgraf/learning3d/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Aluno/unity/compgraf/learning3d/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Aluno/Documents/compgraf/learning3d/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Aluno/unity/compgraf/learning3d/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Aluno/Documents/compgraf/learning3d/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Aluno/unity/compgraf/learning3d/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
